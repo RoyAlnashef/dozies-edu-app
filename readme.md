@@ -166,4 +166,4 @@ Private project - All rights reserved.
 
 ---
 
-Built with ❤️ by [Roy Alnashef](https://github.com/RoyAlnashef)
+Built with ❤️ by [Roy](https://github.com/RoyAlnashef) & Dozie
